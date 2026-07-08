@@ -6,7 +6,7 @@ levamos segurança a sério mesmo sendo uma ferramenta single-user self-hosted.
 ## Reportando uma vulnerabilidade
 
 **Não abra uma issue pública** para falhas de segurança. Use os
-[Security Advisories privados do GitHub](https://github.com/tzanluca/nucleo/security/advisories/new)
+[Security Advisories privados do GitHub](https://github.com/zanlucathiago/nucleo/security/advisories/new)
 ou abra um contato privado com o mantenedor.
 
 Descreva o problema, o impacto e um passo a passo de reprodução. Respondemos o
